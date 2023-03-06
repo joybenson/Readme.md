@@ -1,0 +1,16 @@
+#!/bin/bash
+summary for Git
+Git is a key tool used by developers and professionals for versioning in various projects. It helps to maintain records of changes made in codes/files/script. I
+t is a Distributed Version Control System [DVCS]
+VERSIONING helps to record changes to a file or set of files over time so as to
+recall specific versions later.
+ Examples of Git commands
+ a. git init
+ b. git status
+ c. git add
+ d. git commit -m
+ e. git config --global user.email "email'
+ f. git config --global user.name "name"
+ g. git log
+ h. git show commitID
+
