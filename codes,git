@@ -13,4 +13,5 @@ recall specific versions later.
  f. git config --global user.name "name"
  g. git log
  h. git show commitID
+echo "update"
 
